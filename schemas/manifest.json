@@ -1,0 +1,88 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "version": {
+      "type": "object",
+      "properties": {
+        "major": {
+          "type": "integer"
+        },
+        "minor": {
+          "type": "integer"
+        },
+        "patch": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "major",
+        "minor",
+        "patch"
+      ]
+    },
+    "keywords": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "logoURI": {
+      "type": "string"
+    },
+    "timestamp": {
+      "type": "string"
+    },
+    "tokens": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "chainId": {
+            "type": "integer"
+          },
+          "symbol": {
+            "type": "string"
+          },
+          "decimals": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "address": {
+            "type": "string",
+            "pattern": "^(-1 | 0):[0-9a-fA-F]{64}$"
+          },
+          "logoURI": {
+            "type": "string",
+            "format": "uri"
+          },
+          "version": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "name",
+          "chainId",
+          "symbol",
+          "decimals",
+          "address",
+          "logoURI"
+        ]
+      }
+    }
+  },
+  "required": [
+    "name",
+    "version",
+    "keywords",
+    "logoURI",
+    "timestamp",
+    "tokens"
+  ]
+}
