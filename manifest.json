@@ -1,0 +1,78 @@
+{
+    "$schema": "./schemas/manifest.json",
+    "name": "TIP3 Tokens List",
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+    },
+    "keywords": [
+        "ton",
+        "tip3",
+        "tokens"
+    ],
+    "timestamp": "2021-05-08T12:15:51.633Z",
+    "tokens": [
+        {
+            "name": "Tether",
+            "chainId": 1,
+            "symbol": "USDT",
+            "decimals": 6,
+            "address": "0:5b325f4f364366d9b3fe46cc77f622b013da7a7edf99a3d5d25e5510dca50d13",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/icons/USDTv3/logo.svg",
+            "version": 3
+        },
+        {
+            "name": "USD Coin",
+            "chainId": 1,
+            "symbol": "USDC",
+            "decimals": 6,
+            "address": "0:4a2c894ef8780735ae52bf8caf82d214477ceea494ad547a6832bf695d230ed1",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/icons/USDTv3/logo.svg",
+            "version": 3
+        },
+        {
+            "name": "Dai Stablecoin",
+            "chainId": 1,
+            "symbol": "DAI",
+            "decimals": 18,
+            "address": "0:31540aa0100da4b7f6cfb47ff987be4910b27ce1b5cf228fddce82cb4bf4f518",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/icons/DAIv3/logo.svg",
+            "version": 3
+        },
+        {
+            "name": "Wrapped BTC",
+            "chainId": 1,
+            "symbol": "WBTC",
+            "decimals": 8,
+            "address": "0:382c14808ed11f735410d67407802dff46b74f935b89b65649e1841ab09fd8b4",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/icons/WBTCv3/logo.svg",
+            "version": 3
+        },
+        {
+            "name": "Wrapped Ether",
+            "chainId": 1,
+            "symbol": "WETH",
+            "decimals": 18,
+            "address": "0:9ca758fb99002a61d22c594fa2db6f0e1d8934580815565057be47f94a8e7325",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/icons/WETHv3/logo.svg",
+            "version": 3
+        },
+        {
+            "name": "Wrapped TON",
+            "chainId": 1,
+            "symbol": "WTON",
+            "decimals": 9,
+            "address": "0:eed3f331634d49a5da2b546f4652dd4889487a187c2ef9dd2203cff17b584e3d",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/icons/WTONv3/logo.svg",
+            "version": 3
+        },
+        {
+            "name": "Uniswap V2: USDT-WTON",
+            "chainId": 1,
+            "symbol": "UNI-V2-USDT-WTON",
+            "decimals": 18,
+            "address": "0:72cad0c97cc8d84eef6837ee110f8f67c9d376cae57d684308fe30e831df734a"
+        }
+    ]
+}
