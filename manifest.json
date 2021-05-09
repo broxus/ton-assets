@@ -14,6 +14,15 @@
     "timestamp": "2021-05-08T12:15:51.633Z",
     "tokens": [
         {
+            "name": "Wrapped TON",
+            "chainId": 1,
+            "symbol": "WTON",
+            "decimals": 9,
+            "address": "0:eed3f331634d49a5da2b546f4652dd4889487a187c2ef9dd2203cff17b584e3d",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WTONv3/logo.svg",
+            "version": 3
+        },
+        {
             "name": "Tether",
             "chainId": 1,
             "symbol": "USDT",
@@ -28,7 +37,7 @@
             "symbol": "USDC",
             "decimals": 6,
             "address": "0:4a2c894ef8780735ae52bf8caf82d214477ceea494ad547a6832bf695d230ed1",
-            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDTv3/logo.svg",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDCv3/logo.svg",
             "version": 3
         },
         {
@@ -56,15 +65,6 @@
             "decimals": 18,
             "address": "0:9ca758fb99002a61d22c594fa2db6f0e1d8934580815565057be47f94a8e7325",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WETHv3/logo.svg",
-            "version": 3
-        },
-        {
-            "name": "Wrapped TON",
-            "chainId": 1,
-            "symbol": "WTON",
-            "decimals": 9,
-            "address": "0:eed3f331634d49a5da2b546f4652dd4889487a187c2ef9dd2203cff17b584e3d",
-            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WTONv3/logo.svg",
             "version": 3
         },
         {
