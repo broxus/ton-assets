@@ -4,7 +4,7 @@
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     },
     "keywords": [
         "ton",
@@ -73,6 +73,15 @@
             "symbol": "UNI-V2-USDT-WTON",
             "decimals": 18,
             "address": "0:53abe27ec16208973c9643911c35b5d033744fbb95b11b5672f71188db5a42dc",
+            "version": 4
+        },
+        {
+            "name": "TON Bridge",
+            "chainId": 1,
+            "symbol": "BRIDGE",
+            "decimals": 9,
+            "address": "0:a453e9973010fadd4895e0d37c1ad15cba97f4fd31ef17663343f79768f678d9",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BRIDGE/logo.svg",
             "version": 4
         }
     ]
