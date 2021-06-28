@@ -83,6 +83,105 @@
             "address": "0:a453e9973010fadd4895e0d37c1ad15cba97f4fd31ef17663343f79768f678d9",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BRIDGE/logo.svg",
             "version": 4
+        },
+        {
+            "name": "Frax",
+            "chainId": 1,
+            "symbol": "FRAX",
+            "decimals": 18,
+            "address": "...todo...",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/FRAX/logo.svg",
+            "version": 4
+        },
+        {
+            "name": "Frax Share",
+            "chainId": 1,
+            "symbol": "FXS",
+            "decimals": 18,
+            "address": "...todo...",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/FXS/logo.svg",
+            "version": 4
+        },
+        {
+            "name": "SushiSwap",
+            "chainId": 1,
+            "symbol": "SUSHI",
+            "decimals": 18,
+            "address": "...todo...",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/SUSHI/logo.svg",
+            "version": 4
+        },
+        {
+            "name": "Uniswap",
+            "chainId": 1,
+            "symbol": "UNI",
+            "decimals": 18,
+            "address": "...todo...",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/UNI/logo.svg",
+            "version": 4
+        },
+        {
+            "name": "Aave",
+            "chainId": 1,
+            "symbol": "AAVE",
+            "decimals": 18,
+            "address": "...todo...",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/AAVE/logo.svg",
+            "version": 4
+        },
+        {
+            "name": "Compound",
+            "chainId": 1,
+            "symbol": "COMP",
+            "decimals": 18,
+            "address": "...todo...",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/COMP/logo.svg",
+            "version": 4
+        },
+        {
+            "name": "Curve DAO Token",
+            "chainId": 1,
+            "symbol": "CRV",
+            "decimals": 18,
+            "address": "...todo...",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/CRV/logo.svg",
+            "version": 4
+        },
+        {
+            "name": "STASIS EURO",
+            "chainId": 1,
+            "symbol": "EURS",
+            "decimals": 2,
+            "address": "...todo...",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EURS/logo.svg",
+            "version": 4
+        },
+        {
+            "name": "Tornado Cash",
+            "chainId": 1,
+            "symbol": "TORN",
+            "decimals": 18,
+            "address": "...todo...",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/TORN/logo.svg",
+            "version": 4
+        },
+        {
+            "name": "yearn.finance",
+            "chainId": 1,
+            "symbol": "YFI",
+            "decimals": 18,
+            "address": "...todo...",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/YFI/logo.svg",
+            "version": 4
+        },
+        {
+            "name": "1inch",
+            "chainId": 1,
+            "symbol": "1INCH",
+            "decimals": 18,
+            "address": "...todo...",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/1INCH/logo.svg",
+            "version": 4
         }
     ]
 }
