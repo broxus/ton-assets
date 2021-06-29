@@ -89,7 +89,7 @@
             "chainId": 1,
             "symbol": "FRAX",
             "decimals": 18,
-            "address": "...todo...",
+            "address": "0:f8b0314571f5f00f6d9a61a914b9b5e1d910442d09b80c27efeb46631d74e961",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/FRAX/logo.svg",
             "version": 4
         },
@@ -98,7 +98,7 @@
             "chainId": 1,
             "symbol": "FXS",
             "decimals": 18,
-            "address": "...todo...",
+            "address": "0:0cddd021d2488c882041a31ba44e4ee69643a45223f068571e05b5a4c45bb7f6",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/FXS/logo.svg",
             "version": 4
         },
@@ -107,7 +107,7 @@
             "chainId": 1,
             "symbol": "SUSHI",
             "decimals": 18,
-            "address": "...todo...",
+            "address": "0:8d3c9d6e1803d1c3ee22130a08b370c075c99eca9f4eb6dffa1d5bcc34c45eac",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/SUSHI/logo.svg",
             "version": 4
         },
@@ -116,7 +116,7 @@
             "chainId": 1,
             "symbol": "UNI",
             "decimals": 18,
-            "address": "...todo...",
+            "address": "0:471c9d737254a0044695c7e50ec5b8f6f94eadd49511b298d4a331b95106652b",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/UNI/logo.svg",
             "version": 4
         },
@@ -125,7 +125,7 @@
             "chainId": 1,
             "symbol": "AAVE",
             "decimals": 18,
-            "address": "...todo...",
+            "address": "0:b2e341c01da068d43cfa0eae6dae36b12b476e55cf2c3eeb002689f44b9ddef9",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/AAVE/logo.svg",
             "version": 4
         },
@@ -134,7 +134,7 @@
             "chainId": 1,
             "symbol": "COMP",
             "decimals": 18,
-            "address": "...todo...",
+            "address": "0:bc77ba7f3cbbebcca393e85ed479ef44df63cdee4fb572c3e0f904fb9fc63e25",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/COMP/logo.svg",
             "version": 4
         },
@@ -143,7 +143,7 @@
             "chainId": 1,
             "symbol": "CRV",
             "decimals": 18,
-            "address": "...todo...",
+            "address": "0:7dd7ae82835848dc6b490515ec4034968a8ceff893a6d5f31ab3cdfcfb79bbb6",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/CRV/logo.svg",
             "version": 4
         },
@@ -152,7 +152,7 @@
             "chainId": 1,
             "symbol": "EURS",
             "decimals": 2,
-            "address": "...todo...",
+            "address": "0:6b2baa777b89da66dddaf9f1602142987b13ca565bbb170da929ea945f5ce9fb",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EURS/logo.svg",
             "version": 4
         },
@@ -161,7 +161,7 @@
             "chainId": 1,
             "symbol": "TORN",
             "decimals": 18,
-            "address": "...todo...",
+            "address": "0:387609364f765017fa3fa5815e08d420e054c88a86426cd6d5aaf2a1ee46ff5a",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/TORN/logo.svg",
             "version": 4
         },
@@ -170,7 +170,7 @@
             "chainId": 1,
             "symbol": "YFI",
             "decimals": 18,
-            "address": "...todo...",
+            "address": "0:e114f1f7d21ac6566d988c983315e0cdd5bee7b43c08918537d1117dea7e4534",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/YFI/logo.svg",
             "version": 4
         },
@@ -179,7 +179,7 @@
             "chainId": 1,
             "symbol": "1INCH",
             "decimals": 18,
-            "address": "...todo...",
+            "address": "0:3c66e3e0ce0a909ce8779b31509db773e544132d8fa6f6641c00bce257c79d9c",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/1INCH/logo.svg",
             "version": 4
         }
