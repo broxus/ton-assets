@@ -103,7 +103,7 @@
             "version": 4
         },
         {
-            "name": "SushiSwap",
+            "name": "Sushi Token",
             "chainId": 1,
             "symbol": "SUSHI",
             "decimals": 18,
@@ -121,7 +121,7 @@
             "version": 4
         },
         {
-            "name": "Aave",
+            "name": "Aave Token",
             "chainId": 1,
             "symbol": "AAVE",
             "decimals": 18,
@@ -148,7 +148,7 @@
             "version": 4
         },
         {
-            "name": "STASIS EURO",
+            "name": "STASIS EURS Token",
             "chainId": 1,
             "symbol": "EURS",
             "decimals": 2,
@@ -157,7 +157,7 @@
             "version": 4
         },
         {
-            "name": "Tornado Cash",
+            "name": "TORN Token",
             "chainId": 1,
             "symbol": "TORN",
             "decimals": 18,
@@ -175,7 +175,7 @@
             "version": 4
         },
         {
-            "name": "1inch",
+            "name": "1INCH Token",
             "chainId": 1,
             "symbol": "1INCH",
             "decimals": 18,
