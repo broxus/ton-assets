@@ -182,6 +182,15 @@
             "address": "0:3c66e3e0ce0a909ce8779b31509db773e544132d8fa6f6641c00bce257c79d9c",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/1INCH/logo.svg",
             "version": 4
+        },
+        {
+            "name": "dArtflex Token",
+            "chainId": 1,
+            "symbol": "DAF",
+            "decimals": 18,
+            "address": "0:bf1c7c0e8a187d9d5ba6069bf768b69a982df8b22ef8430b31dcc4f97263507e",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAF/logo.svg",
+            "version": 4
         }
     ]
 }
