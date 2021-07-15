@@ -191,6 +191,24 @@
             "address": "0:bf1c7c0e8a187d9d5ba6069bf768b69a982df8b22ef8430b31dcc4f97263507e",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAF/logo.svg",
             "version": 4
+        },
+        {
+            "name": "Fortune",
+            "chainId": 1,
+            "symbol": "FRTN",
+            "decimals": 8,
+            "address": "0:7ffa7b7e72224a9a2fba27386dfa71ed379bd9d541662671ab096e22110e5e96",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/FRTN/logo.svg",
+            "version": 4
+        },
+        {
+            "name": "EUR-Fiat-Based",
+            "chainId": 1,
+            "symbol": "EUPi",
+            "decimals": 8,
+            "address": "0:f4a912b0c3be422e02c0a8295590671cae5b38c75d397da8d1da33882888bbcb",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EUPi/logo.svg",
+            "version": 4
         }
     ]
 }
