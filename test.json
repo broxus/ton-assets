@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/broxus/ton-assets/master/schemas/manifest.json",
+    "name": "TIP3 test Tokens List",
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+    },
+    "keywords": [
+        "ton",
+        "tip3",
+        "tokens",
+        "test"
+    ],
+    "timestamp": "2021-09-23T12:15:51.633Z",
+    "tokens": [
+        {
+            "name": "Bridge test token",
+            "chainId": 5,
+            "symbol": "BTT",
+            "decimals": 18,
+            "address": "0:fc89e9b3416bf6c61d01908cbf12414ee7ec271c82ab1b2cb9f110414a7ccb59",
+            "logoURI": "",
+            "version": 4
+        }
+    ]
+}
