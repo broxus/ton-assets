@@ -16,11 +16,20 @@
     "tokens": [
         {
             "name": "Bridge test token",
-            "chainId": 5,
+            "chainId": 2,
             "symbol": "BTT",
             "decimals": 18,
             "address": "0:fc89e9b3416bf6c61d01908cbf12414ee7ec271c82ab1b2cb9f110414a7ccb59",
             "logoURI": "",
+            "version": 4
+        },
+        {
+            "name": "TON Bridge",
+            "chainId": 2,
+            "symbol": "BRIDGE",
+            "decimals": 9,
+            "address": "0:d76f931ad5a108277e379c5a0d5dd7ec5d2f417df516d5dcfd051f00aa56ed03",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BRIDGE/logo.svg",
             "version": 4
         }
     ]
