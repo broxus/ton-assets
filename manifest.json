@@ -14,13 +14,13 @@
     "timestamp": "2021-05-08T12:15:51.633Z",
     "tokens": [
         {
-            "name": "Wrapped TON",
+            "name": "Dai Stablecoin",
             "chainId": 1,
-            "symbol": "WTON",
-            "decimals": 9,
-            "address": "0:0ee39330eddb680ce731cd6a443c71d9069db06d149a9bec9569d1eb8d04eb37",
-            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WTONv3/logo.svg",
-            "version": 4
+            "symbol": "DAI",
+            "decimals": 18,
+            "address": "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAIv3/logo.svg",
+            "version": 5
         },
         {
             "name": "Tether",
@@ -29,7 +29,7 @@
             "decimals": 6,
             "address": "0:a519f99bb5d6d51ef958ed24d337ad75a1c770885dcd42d51d6663f9fcdacfb2",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDTv3/logo.svg",
-            "version": 4
+            "version": 5
         },
         {
             "name": "USD Coin",
@@ -38,16 +38,7 @@
             "decimals": 6,
             "address": "0:c37b3fafca5bf7d3704b081fde7df54f298736ee059bf6d32fac25f5e6085bf6",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDCv3/logo.svg",
-            "version": 4
-        },
-        {
-            "name": "Dai Stablecoin",
-            "chainId": 1,
-            "symbol": "DAI",
-            "decimals": 18,
-            "address": "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9",
-            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAIv3/logo.svg",
-            "version": 4
+            "version": 5
         },
         {
             "name": "Wrapped BTC",
@@ -56,7 +47,7 @@
             "decimals": 8,
             "address": "0:2ba32b75870d572e255809b7b423f30f36dd5dea075bd5f026863fceb81f2bcf",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WBTCv3/logo.svg",
-            "version": 4
+            "version": 5
         },
         {
             "name": "Wrapped Ether",
@@ -65,7 +56,7 @@
             "decimals": 18,
             "address": "0:59b6b64ac6798aacf385ae9910008a525a84fc6dcf9f942ae81f8e8485fe160d",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WETHv3/logo.svg",
-            "version": 4
+            "version": 5
         },
         {
             "name": "Uniswap V2: USDT-WTON",
@@ -73,7 +64,7 @@
             "symbol": "UNI-V2-USDT-WTON",
             "decimals": 18,
             "address": "0:1e6e1b3674b54753864af7b15072566ce632965bd83bab431a8ff86d68cf1657",
-            "version": 4
+            "version": 5
         },
         {
             "name": "TON Bridge",
@@ -82,7 +73,7 @@
             "decimals": 9,
             "address": "0:a453e9973010fadd4895e0d37c1ad15cba97f4fd31ef17663343f79768f678d9",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BRIDGE/logo.svg",
-            "version": 4
+            "version": 5
         },
         {
             "name": "Frax",
@@ -91,7 +82,7 @@
             "decimals": 18,
             "address": "0:efed9f9a7e6c455ee60829fd003b2f42edda513c6f19a484f916b055e9aa58d2",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/FRAX/logo.svg",
-            "version": 4
+            "version": 5
         },
         {
             "name": "Frax Share",
@@ -100,7 +91,7 @@
             "decimals": 18,
             "address": "0:c14e2f026feaae0f99b92c04ee421051a782fff60156ac8a586a12f63d7facef",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/FXS/logo.svg",
-            "version": 4
+            "version": 5
         },
         {
             "name": "dArtflex Token",
@@ -109,7 +100,7 @@
             "decimals": 18,
             "address": "0:f48054939064d686a9ad68d96d9ab79e409b095557c06ab7f073097dade7057f",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAF/logo.svg",
-            "version": 4
+            "version": 5
         }
     ]
 }
