@@ -101,6 +101,24 @@
             "address": "0:f48054939064d686a9ad68d96d9ab79e409b095557c06ab7f073097dade7057f",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAF/logo.svg",
             "version": 5
+        },
+        {
+            "name": "STASIS EURS Token",
+            "chainId": 1,
+            "symbol": "EURS",
+            "decimals": 2,
+            "address": "0:00ca16398f314a9b3bed582dc69582515d866ededb6c4e18190f63b305cedf91",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EURS/logo.svg",
+            "version": 5
+        },
+        {
+            "name": "Wrapped EVER",
+            "chainId": 1,
+            "symbol": "WEVER",
+            "decimals": 9,
+            "address": "0:a49cd4e158a9a15555e624759e2e4e766d22600b7800d891e46f9291f044a93d",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WTONv3/logo.svg",
+            "version": 5
         }
     ]
 }
