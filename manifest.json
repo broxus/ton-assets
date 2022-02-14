@@ -71,7 +71,7 @@
             "chainId": 1,
             "symbol": "BRIDGE",
             "decimals": 9,
-            "address": "0:a453e9973010fadd4895e0d37c1ad15cba97f4fd31ef17663343f79768f678d9",
+            "address": "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BRIDGE/logo.svg",
             "version": 5
         },
