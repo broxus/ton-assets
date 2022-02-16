@@ -67,7 +67,7 @@
             "version": 5
         },
         {
-            "name": "TON Bridge",
+            "name": "Bridge",
             "chainId": 1,
             "symbol": "BRIDGE",
             "decimals": 9,
