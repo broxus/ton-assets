@@ -15,22 +15,22 @@
     "timestamp": "2021-09-23T12:15:51.633Z",
     "tokens": [
         {
-            "name": "Bridge test token",
+            "name": "USDT",
             "chainId": 2,
-            "symbol": "BTT",
-            "decimals": 18,
-            "address": "0:fc89e9b3416bf6c61d01908cbf12414ee7ec271c82ab1b2cb9f110414a7ccb59",
+            "symbol": "USDT",
+            "decimals": 6,
+            "address": "0:4b6240eb87495ca9fc0c9ea58947f9707af5a0aa79d15f1e00f964878f52c73f",
             "logoURI": "",
-            "version": 4
+            "version": 5
         },
         {
-            "name": "TON Bridge",
+            "name": "BRIDGE",
             "chainId": 2,
             "symbol": "BRIDGE",
             "decimals": 9,
-            "address": "0:d76f931ad5a108277e379c5a0d5dd7ec5d2f417df516d5dcfd051f00aa56ed03",
-            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BRIDGE/logo.svg",
-            "version": 4
+            "address": "0:1d1e1a1b6e26ab62dbdee81051b7b578a6c816b8b215ca7b6388ae793758af72",
+            "logoURI": "",
+            "version": 5
         }
     ]
 }
