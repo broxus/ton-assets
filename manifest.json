@@ -76,6 +76,14 @@
             "version": 5
         },
         {
+            "name": "Qube",
+            "chainId": 1,
+            "symbol": "QUBE",
+            "decimals": 9,
+            "address": "0:9f20666ce123602fd7a995508aeaa0ece4f92133503c0dfbd609b3239f3901e2",
+            "version": 5
+        },
+        {
             "name": "Frax",
             "chainId": 1,
             "symbol": "FRAX",
