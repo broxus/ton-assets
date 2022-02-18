@@ -81,6 +81,7 @@
             "symbol": "QUBE",
             "decimals": 9,
             "address": "0:9f20666ce123602fd7a995508aeaa0ece4f92133503c0dfbd609b3239f3901e2",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/QUBE/logo.svg",
             "version": 5
         },
         {
