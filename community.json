@@ -29,7 +29,7 @@
       "symbol": "EVS",
       "decimals": 9,
       "address": "0:e5d964bf76b90a29ca11ff03a0402eeca6a1c79a0fb4d8a2f06a67be0537a6bf",
-      "logoURI": "https://everspace.app/tip3/EVS/Logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EVS/logo.svg",
       "version": 5
     }
   ]
