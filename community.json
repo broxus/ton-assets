@@ -31,6 +31,15 @@
       "address": "0:e5d964bf76b90a29ca11ff03a0402eeca6a1c79a0fb4d8a2f06a67be0537a6bf",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EVS/logo.svg",
       "version": 5
+    },
+    {
+      "name": "Grechcoin",
+      "chainId": 1,
+      "symbol": "GRE",
+      "decimals": 5,
+      "address": "0:fde4c629d6447fecd86d2cffe363d5f334030351022bad019e0f472212e9dc99",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/GRE/logo.svg",
+      "version": 5
     }
   ]
 }
