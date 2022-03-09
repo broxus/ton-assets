@@ -137,15 +137,6 @@
       "address": "0:0cfa60f9454b1b619938c4da6a138b1cc62da937b3f6c0506405daf2a88e0115",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EUPi/logo.svg",
       "version": 5
-    },
-    {
-      "name": "Everspace",
-      "chainId": 1,
-      "symbol": "EVS",
-      "decimals": 9,
-      "address": "0:e5d964bf76b90a29ca11ff03a0402eeca6a1c79a0fb4d8a2f06a67be0537a6bf",
-      "logoURI": "https://everspace.app/tip3/EVS/Logo.svg",
-      "version": 5
     }
   ]
 }
