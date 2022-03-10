@@ -70,6 +70,12 @@
           },
           "version": {
             "type": "integer"
+          },
+          "verified": {
+            "type": "boolean"
+          },
+          "vendor": {
+            "type": "string"
           }
         },
         "required": [

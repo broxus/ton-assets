@@ -1,4 +1,5 @@
 {
+  "README": "community tokens moved to manifest.json, this file will be removed",
   "$schema": "https://raw.githubusercontent.com/broxus/ton-assets/master/schemas/manifest.json",
   "name": "TIP3 Community Tokens List",
   "version": {
@@ -14,32 +15,6 @@
   ],
   "timestamp": "2022-03-08T16:16:11.633Z",
   "tokens": [
-    {
-      "name": "SOON Token",
-      "chainId": 1,
-      "symbol": "SOON",
-      "decimals": 18,
-      "address": "0:a15e6a7a91c331ddcd85675ca64d5a7db8c7e94b35806b2e05bf4bce29d21023",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/SOON/logo.svg",
-      "version": 5
-    },
-    {
-      "name": "Everspace",
-      "chainId": 1,
-      "symbol": "EVS",
-      "decimals": 9,
-      "address": "0:e5d964bf76b90a29ca11ff03a0402eeca6a1c79a0fb4d8a2f06a67be0537a6bf",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EVS/logo.svg",
-      "version": 5
-    },
-    {
-      "name": "BAPBAPA",
-      "chainId": 1,
-      "symbol": "BAPBAPA",
-      "decimals": 9,
-      "address": "0:9e0350c13cafe2bb55d906553fde5f357612e6dcb46c0c3440c7bfdda273ffdd",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BAPBAPA/logo.svg",
-      "version": 5
-    }
+
   ]
 }
