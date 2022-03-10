@@ -206,6 +206,17 @@
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BAPBAPA/logo.svg",
       "version": 5,
       "verified": false
+    },
+    {
+      "name": "Rum",
+      "chainId": 1,
+      "symbol": "RUM",
+      "decimals": 9,
+      "address": "0:38a4c196c7fe22cbf0cda034ddda284aa208e2dba7707b96f65914420ba3f580",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/RUM/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "svoidev"
     }
   ]
 }
