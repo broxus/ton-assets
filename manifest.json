@@ -219,6 +219,16 @@
       "vendor": "svoidev"
     },
     {
+      "name": "Tokenized US National Debt",
+      "chainId": 1,
+      "symbol": "DUSA",
+      "decimals": 2,
+      "address": "0:b3ed4b9402881c7638566b410dda055344679b065dce19807497c62202ba9ce3",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DUSA/logo.svg",
+      "version": 5,
+      "verified": false
+    },
+    {
       "name": "COLA COIN",
       "chainId": 1,
       "symbol": "COLA",
