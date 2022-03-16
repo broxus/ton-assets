@@ -238,6 +238,17 @@
       "version": 5,
       "verified": false,
       "vendor": "svoidev"
+    },
+    {
+      "name": "LEND",
+      "chainId": 1,
+      "symbol": "LEND",
+      "decimals": 9,
+      "address": "0:679a05316a324d0daa2724ab7d8e9768a2d1042863299323e969a174a8412a58",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/LEND/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "svoidev"
     }
   ]
 }
