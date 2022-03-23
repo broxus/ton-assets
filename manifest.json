@@ -249,6 +249,17 @@
       "version": 5,
       "verified": false,
       "vendor": "svoidev"
+    },
+    {
+      "name": "THE MOON Token",
+      "chainId": 1,
+      "symbol": "MOON",
+      "decimals": 6,
+      "address": "0:b5ff077d8ac0160559bd3c945a2a824cda12ba93ae90c2697c890656d52fc7d0",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/MOON/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "themoon.land"
     }
   ]
 }
