@@ -249,6 +249,16 @@
       "version": 5,
       "verified": false,
       "vendor": "svoidev"
+    },
+    {
+      "name": "Zaebal",
+      "chainId": 1,
+      "symbol": "ZBAL",
+      "decimals": 9,
+      "address": "0:6b07685e1b65225162bd97a38bc157e23c9d4f263cc03198ab13081596daba45",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/ZBAL/logo.svg",
+      "version": 5,
+      "verified": false
     }
   ]
 }
