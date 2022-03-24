@@ -260,6 +260,16 @@
       "version": 5,
       "verified": false,
       "vendor": "themoon.land"
+    },
+    {
+      "name": "Zaebal",
+      "chainId": 1,
+      "symbol": "ZBAL",
+      "decimals": 18,
+      "address": "0:3cfb347d95697e8bcef40e8a2fdd1c7496da095cf5cd7ef790b16694687ac947",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/ZBAL/logo.svg",
+      "version": 5,
+      "verified": false
     }
   ]
 }
