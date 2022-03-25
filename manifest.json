@@ -260,6 +260,16 @@
       "version": 5,
       "verified": false,
       "vendor": "themoon.land"
+    },
+    {
+      "name": "Наташа, мы всё уронили",
+      "chainId": 1,
+      "symbol": "NTSH",
+      "decimals": 6,
+      "address": "0:dac592af1094e3f7d11d601131288ba0c86a5c759fbb12f7b124f1f073cbc15e",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/NTSH/logo.svg",
+      "version": 5,
+      "verified": false
     }
   ]
 }
