@@ -282,6 +282,17 @@
       "version": 5,
       "verified": false,
       "vendor": "Dexada"
+    },
+    {
+      "name": "Pirate coin",
+      "chainId": 1,
+      "symbol": "PIRATE",
+      "decimals": 18,
+      "address": "0:6693b5b98ee8c9daa16eb8aeaabcf41ca53b70e84d63115c3ac271f6c2bb74ef",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/PIRATE/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "pirate.coin"
     }
   ]
 }
