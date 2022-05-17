@@ -249,6 +249,39 @@
       "version": 5,
       "verified": false,
       "vendor": "svoidev"
+    },
+    {
+      "name": "THE MOON Token",
+      "chainId": 1,
+      "symbol": "MOON",
+      "decimals": 6,
+      "address": "0:b5ff077d8ac0160559bd3c945a2a824cda12ba93ae90c2697c890656d52fc7d0",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/MOON/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "themoon.land"
+    },
+    {
+      "name": "SpartaCats",
+      "chainId": 1,
+      "symbol": "PURR",
+      "decimals": 18,
+      "address": "0:9d49206b0eaadc5125c6b5e30410505db7740f827857915922cdb7efe199b622",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/PURR/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "EverStart"
+    },
+    {
+      "name": "EVA",
+      "chainId": 1,
+      "symbol": "EVA",
+      "decimals": 9,
+      "address": "0:eaf911b4bc7f9691f9114e32919845a997b3b626add345c67a933ed20b59e9e4",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EVA/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "Dexada"
     }
   ]
 }
