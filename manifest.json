@@ -282,6 +282,28 @@
       "version": 5,
       "verified": false,
       "vendor": "Dexada"
+    },
+    {
+      "name": "PUNK",
+      "chainId": 1,
+      "symbol": "PUNK",
+      "decimals": 9,
+      "address": "0:bca1186454ecd1f24c1750393baacdb5072bedf015bf2091cee8ffe126b1a553",
+      "logoURI": "https://raw.githubusercontent.com/SVOIcom/ton-assets/master/icons/PUNK/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "svoidev"
+    },
+    {
+      "name": "WALLET",
+      "chainId": 1,
+      "symbol": "WALLET",
+      "decimals": 9,
+      "address": "0:5a0ca727beb81008d10b5cce5c9a8b806b14dab7bca000a8ed24b99d3c0bfad7",
+      "logoURI": "https://raw.githubusercontent.com/SVOIcom/ton-assets/master/icons/WALLET/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "svoidev"
     }
   ]
 }
