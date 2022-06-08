@@ -1,0 +1,16 @@
+<svg width="128" height="128" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="gradient1" x1="100" y1="52.004" x2="28" y2="52.004" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="gradient2" x1="28" y1="75.993" x2="100" y2="75.993" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+    </defs>
+    <rect width="128" height="128" rx="64" fill="#8A79FF"/>
+    <path d="M100 28H55.847C40.492 28 28 38.743 28 51.999 28 65.254 40.492 76 55.847 76H100V28Z" fill="url(#gradient1)"/>
+    <path d="M28 99.998h44.153C87.508 99.998 100 89.255 100 76S87.508 52 72.153 52H28v47.998Z" fill="url(#gradient2)"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M100 75.998C99.999 62.744 87.551 52 72.197 52H28c0 13.255 12.448 24 27.803 24h.044v-.002H100Z" fill="#fff"/>
+</svg>
