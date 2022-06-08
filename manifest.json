@@ -297,7 +297,7 @@
         {
       "name": "EverStart",
       "chainId": 1,
-      "symbol": "INF",
+      "symbol": "START",
       "decimals": 9,
       "address": "0:7d7af239168cfd06353c224aa8b5e805846ae5e556f66fa8e045b5e1ba29e82a",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/START/logo.svg",
