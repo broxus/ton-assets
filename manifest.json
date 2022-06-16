@@ -304,6 +304,18 @@
       "version": 5,
       "verified": false,
       "vendor": "svoidev"
+    },
+    {
+      "name": "Alternative RUBLE",
+      "chainId": 1,
+      "symbol": "ARUB",
+      "decimals": 18,
+      "address": "0:82dfa05baeffdf3c7abe4f37cba4daa047dfea312f9dd475747e9d8efb84fa2e",
+      "logoURI": "https://alternativeruble.com/mediaAssets/token.fw.png",
+      "version": 5,
+      "verified": false,
+      "vendor": "https://alternativeruble.com"
     }
+    
   ]
 }
