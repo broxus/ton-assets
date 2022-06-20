@@ -304,6 +304,17 @@
       "version": 5,
       "verified": false,
       "vendor": "EverStart"
-    }      
+    },
+    {
+      "name": "Revoland Governance Token",
+      "chainId": 1,
+      "symbol": "REVO",
+      "decimals": 18,
+      "address": "0:e7368d8896228465fb9d8cc0681c398213b6cdaf7589e529519121b97559b6d6",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/REVO/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "EverStart"
+    } 
   ]
 }
