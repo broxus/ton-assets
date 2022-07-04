@@ -315,6 +315,17 @@
       "version": 5,
       "verified": false,
       "vendor": "EverStart"
+    },
+    {
+      "name": "Black INK",
+      "chainId": 1,
+      "symbol": "INK",
+      "decimals": 9,
+      "address": "0:ba3df9da063c400bc934e35dc16c0ef13b4ca0bf44fa49501f0b5d628aa82fb2",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/INK/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "blackink.finance"
     }
   ]
 }
