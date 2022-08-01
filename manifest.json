@@ -337,6 +337,28 @@
       "version": 5,
       "verified": false,
       "vendor": "amazy.io"
+    },
+    {
+      "name": "INDOCOIN",
+      "chainId": 1,
+      "symbol": "INDOCOIN",
+      "decimals": 2,
+      "address": "0:03a878cfcb5475bbdeed030f0f274e2281ab26258c156747703ce9a761bce969",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/INDOCOIN/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": ""
+    },
+    {
+      "name": "PHX",
+      "chainId": 1,
+      "symbol": "PHX",
+      "decimals": 2,
+      "address": "0:01c8c8c678456e3bfbda8c8f655276b39af278a6527f3c42d8d1076ee6a68f5c",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/PHX/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": ""
     }
   ]
 }
