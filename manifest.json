@@ -315,6 +315,17 @@
       "version": 5,
       "verified": false,
       "vendor": "https://alternativeruble.com"
+    },
+    {
+      "name": "Frendly token",
+      "chainId": 1,
+      "symbol": "FEI",
+      "decimals": 18,
+      "address": "0:83eae881b8038dcb3b2c1b9589d224e36d8fe3760fe30c0dd2a79208bcf00339",
+      "logoURI": "https://raw.githubusercontent.com/SVOIcom/ton-assets/master/icons/FEI/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": false
     }
     
   ]
