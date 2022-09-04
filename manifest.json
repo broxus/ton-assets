@@ -359,6 +359,17 @@
       "version": 5,
       "verified": false,
       "vendor": ""
+    },
+    {
+      "name": "RICECoin",
+      "chainId": 1,
+      "symbol": "RICE",
+      "decimals": 9,
+      "address": "0:dcdc7bbb9eef196bb4bba50e014666eab0229ff343b19bc6ff6e950a79ea67ce",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/RICE/logo.svg",
+      "version": 5,
+      "verified": false
+      "vendor": "Logion Agro LLC"
     }
   ]
 }
