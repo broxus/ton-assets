@@ -210,17 +210,6 @@
       "vendor": "EverStart"
     },
     {
-      "name": "INFAM",
-      "chainId": 1,
-      "symbol": "INF",
-      "decimals": 18,
-      "address": "0:2f84387836c950ce35ecacac5b86040961571aaf4630ecb68ccc85ff218213c1",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/INF/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": "infam"
-    },
-    {
       "name": "Amazy Token",
       "chainId": 1,
       "symbol": "AZY",
