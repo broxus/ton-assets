@@ -252,6 +252,17 @@
       "version": 5,
       "verified": false,
       "vendor": ""
+    },
+    {
+      "name": "Solana",
+      "chainId": 1,
+      "symbol": "SOL",
+      "decimals": 9,
+      "address": "0:f787089d81b4d4506f783c611272fedfe5164f784991436491eb619fae13d171",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/SOL/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "broxus"
     }
   ]
 }
