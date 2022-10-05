@@ -11,8 +11,19 @@
     "tip3",
     "tokens"
   ],
-  "timestamp": "2021-05-08T12:15:51.633Z",
+  "timestamp": "2022-10-05T15:00:00.000Z",
   "tokens": [
+    {
+      "name": "Staked Ever",
+      "chainId": 1,
+      "symbol": "stEVER",
+      "decimals": 9,
+      "address": "0:6d42d0bc4a6568120ea88bf642edb653d727cfbd35868c47877532de128e71f2",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/stEVER/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "broxus"
+    },
     {
       "name": "Wrapped EVER",
       "chainId": 1,
