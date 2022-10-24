@@ -274,6 +274,17 @@
       "version": 5,
       "verified": true,
       "vendor": "broxus"
+    },
+	{
+      "name": "ChainWars Essence",
+      "chainId": 1,
+      "symbol": "CWE",
+      "decimals": 18,
+      "address": "0:8f7e930ce95442c3a2a2e3d7a9c7e24dc52dfdaf2ca17e851c49c5bf809bb40e",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/CWE/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "ChainWars"
     }
   ]
 }
