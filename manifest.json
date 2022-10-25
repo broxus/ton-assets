@@ -36,6 +36,17 @@
       "vendor": "broxus"
     },
     {
+      "name": "Locked EVER",
+      "chainId": 1,
+      "symbol": "LEVER",
+      "decimals": 9,
+      "address": "0:4d23272c277c46b9f5c2f8ef4d39660b311c1878e46e356a4ae8546cfa761037",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/LEVER/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "broxus"
+    },
+    {
       "name": "Dai Stablecoin",
       "chainId": 1,
       "symbol": "DAI",
