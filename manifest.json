@@ -14,17 +14,6 @@
   "timestamp": "2022-10-05T15:00:00.000Z",
   "tokens": [
     {
-      "name": "Staked Ever",
-      "chainId": 1,
-      "symbol": "stEVER",
-      "decimals": 9,
-      "address": "0:6d42d0bc4a6568120ea88bf642edb653d727cfbd35868c47877532de128e71f2",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/stEVER/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-    {
       "name": "Wrapped EVER",
       "chainId": 1,
       "symbol": "WEVER",
@@ -36,23 +25,23 @@
       "vendor": "broxus"
     },
     {
+      "name": "Staked Ever",
+      "chainId": 1,
+      "symbol": "stEVER",
+      "decimals": 9,
+      "address": "0:6d42d0bc4a6568120ea88bf642edb653d727cfbd35868c47877532de128e71f2",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/stEVER/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "broxus"
+    },
+    {
       "name": "Locked EVER",
       "chainId": 1,
       "symbol": "LEVER",
       "decimals": 9,
       "address": "0:4d23272c277c46b9f5c2f8ef4d39660b311c1878e46e356a4ae8546cfa761037",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/LEVER/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-    {
-      "name": "Dai Stablecoin",
-      "chainId": 1,
-      "symbol": "DAI",
-      "decimals": 18,
-      "address": "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAIv3/logo.svg",
       "version": 5,
       "verified": true,
       "vendor": "broxus"
@@ -80,6 +69,28 @@
       "vendor": "broxus"
     },
     {
+      "name": "Bridge",
+      "chainId": 1,
+      "symbol": "BRIDGE",
+      "decimals": 9,
+      "address": "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BRIDGE/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "broxus"
+    },
+    {
+      "name": "Qube",
+      "chainId": 1,
+      "symbol": "QUBE",
+      "decimals": 9,
+      "address": "0:9f20666ce123602fd7a995508aeaa0ece4f92133503c0dfbd609b3239f3901e2",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/QUBE/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "broxus"
+    },
+    {
       "name": "Wrapped BTC",
       "chainId": 1,
       "symbol": "WBTC",
@@ -102,23 +113,12 @@
       "vendor": "broxus"
     },
     {
-      "name": "Bridge",
+      "name": "Dai Stablecoin",
       "chainId": 1,
-      "symbol": "BRIDGE",
-      "decimals": 9,
-      "address": "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BRIDGE/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-    {
-      "name": "Qube",
-      "chainId": 1,
-      "symbol": "QUBE",
-      "decimals": 9,
-      "address": "0:9f20666ce123602fd7a995508aeaa0ece4f92133503c0dfbd609b3239f3901e2",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/QUBE/logo.svg",
+      "symbol": "DAI",
+      "decimals": 18,
+      "address": "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAIv3/logo.svg",
       "version": 5,
       "verified": true,
       "vendor": "broxus"
