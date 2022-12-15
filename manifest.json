@@ -307,6 +307,17 @@
       "version": 5,
       "verified": false,
       "vendor": "GamerHub"
+    },
+    {
+      "name": "Everscale Community Token",
+      "chainId": 1,
+      "symbol": "ECT",
+      "decimals": 9,
+      "address": "0:cce7e918e48ee20092ce081a2decdaee09c35f56c087720aa16b820d9d625116",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/ECT/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": ""
     }
   ]
 }
