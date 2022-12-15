@@ -296,6 +296,17 @@
       "version": 5,
       "verified": false,
       "vendor": "ChainWars"
+    },
+    {
+      "name": "GamerHub Token",
+      "chainId": 1,
+      "symbol": "GHT",
+      "decimals": 18,
+      "address": "0:1d5dce78bf1f4fadd3d75b57e3a1437504111fb6003e81f2edc6827f80b65e5e",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/GHT/logo.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "GamerHub"
     }
   ]
 }
