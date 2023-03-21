@@ -69,7 +69,7 @@
       "vendor": "broxus"
     },
     {
-      "name": "Bridge",
+      "name": "Octus Bridge",
       "chainId": 1,
       "symbol": "BRIDGE",
       "decimals": 9,
@@ -80,7 +80,7 @@
       "vendor": "broxus"
     },
     {
-      "name": "Qube",
+      "name": "FlatQube",
       "chainId": 1,
       "symbol": "QUBE",
       "decimals": 9,
