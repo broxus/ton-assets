@@ -318,6 +318,17 @@
       "version": 5,
       "verified": false,
       "vendor": ""
+    },
+    {
+      "name": "Staked Gravix USDT",
+      "chainId": 1,
+      "symbol": "stgUSDT",
+      "decimals": 6,
+      "address": "0:805cf5f7e9b719430697247cd122678ecbb030dd7a1b8cd472d57e3523870e5a",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/stgUSDT/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "broxus"
     }
   ]
 }
