@@ -336,6 +336,7 @@
       "symbol": "KGSTEST",
       "decimals": 9,
       "address": "0:9265f29b703f8e3173b4e64760868ce84e4d89ebfc926fdf5d96d850917dde31",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/KGSTEST/logo.svg",
       "version": 5,
       "verified": true,
       "vendor": "broxus"
