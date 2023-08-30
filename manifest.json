@@ -254,17 +254,6 @@
       "vendor": ""
     },
     {
-      "name": "PHX",
-      "chainId": 42,
-      "symbol": "PHX",
-      "decimals": 2,
-      "address": "0:01c8c8c678456e3bfbda8c8f655276b39af278a6527f3c42d8d1076ee6a68f5c",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/PHX/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": ""
-    },
-    {
       "name": "PileBlocks.com GameFi Play-to-Earn",
       "chainId": 42,
       "symbol": "PILE",
