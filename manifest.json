@@ -329,6 +329,17 @@
       "version": 5,
       "verified": true,
       "vendor": "broxus"
+    },
+    {
+      "name": "GemHUB",
+      "chainId": 42,
+      "symbol": "GHUB",
+      "decimals": 18,
+      "address": "0:7e23c204a0f7a420aa998fd6d2d2fa849da0758114519e53b1105dc66807d33a",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/GHUB/icon.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "broxus"
     }
   ]
 }
