@@ -347,7 +347,7 @@
       "symbol": "WIXI",
       "decimals": 18,
       "address": "0:afe3102c3e0f14839b867207bd4997b00adf3870891a7eb991294834b19ceb27",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WIXI/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WIXI/icon.svg",
       "version": 5,
       "verified": true,
       "vendor": "wixi"
