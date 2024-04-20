@@ -221,17 +221,6 @@
       "verified": false
     },
     {
-      "name": "SpartaCats",
-      "chainId": 42,
-      "symbol": "PURR",
-      "decimals": 18,
-      "address": "0:9d49206b0eaadc5125c6b5e30410505db7740f827857915922cdb7efe199b622",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/PURR/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": "EverStart"
-    },
-    {
       "name": "Amazy Token",
       "chainId": 42,
       "symbol": "AZY",
