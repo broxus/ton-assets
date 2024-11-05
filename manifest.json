@@ -1,10 +1,10 @@
 {
   "$schema": "https://raw.githubusercontent.com/broxus/ton-assets/master/schemas/manifest.json",
-  "name": "TIP3 Tokens List",
+  "name": "Tycho testnet assets List",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 3
+    "patch": 1
   },
   "keywords": [
     "ton",
@@ -14,332 +14,59 @@
   "timestamp": "2022-10-05T15:00:00.000Z",
   "tokens": [
     {
-      "name": "Wrapped EVER",
-      "chainId": 42,
-      "symbol": "WEVER",
+      "name": "Wrapped Native ",
+      "chainId": 2000,
+      "symbol": "wNATIVE",
       "decimals": 9,
-      "address": "0:a49cd4e158a9a15555e624759e2e4e766d22600b7800d891e46f9291f044a93d",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WEVER/logo.svg",
+      "address": "0:23fdea5ee1c697d24765215de208f475f6a7db49b52fa8cac43730ff423327c2",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/WEVER/logo.svg",
       "version": 5,
       "verified": true,
-      "vendor": "broxus"
+      "vendor": "testnet"
     },
     {
-      "name": "Staked Ever",
-      "chainId": 42,
-      "symbol": "stEVER",
-      "decimals": 9,
-      "address": "0:6d42d0bc4a6568120ea88bf642edb653d727cfbd35868c47877532de128e71f2",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/stEVER/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-    {
-      "name": "Locked EVER",
-      "chainId": 42,
-      "symbol": "LEVER",
-      "decimals": 9,
-      "address": "0:4d23272c277c46b9f5c2f8ef4d39660b311c1878e46e356a4ae8546cfa761037",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/LEVER/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-    {
-      "name": "Tether",
-      "chainId": 42,
-      "symbol": "USDT",
+      "name": "Tycho testnet USDT",
+      "chainId": 2000,
+      "symbol": "ttUSDT",
       "decimals": 6,
-      "address": "0:a519f99bb5d6d51ef958ed24d337ad75a1c770885dcd42d51d6663f9fcdacfb2",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDTv3/logo.svg",
+      "address": "0:9ca460fa7a70334a26c0441b70696e44b6c9037192e1de06227695efbf68e817",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDTv3/logo.svg",
       "version": 5,
       "verified": true,
-      "vendor": "broxus"
+      "vendor": "testnet"
     },
     {
-      "name": "USD Coin",
-      "chainId": 42,
+      "name": "Tycho testnet USDC",
+      "chainId": 2000,
       "symbol": "USDC",
       "decimals": 6,
-      "address": "0:c37b3fafca5bf7d3704b081fde7df54f298736ee059bf6d32fac25f5e6085bf6",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDCv3/logo.svg",
+      "address": "0:ae1f0ed01b731b9ee84c711b4cbd8a33346d2beb486cf08dc45ffbdff7222a24",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDCv3/logo.svg",
       "version": 5,
       "verified": true,
-      "vendor": "broxus"
+      "vendor": "testnet"
     },
     {
-      "name": "Bridge",
-      "chainId": 42,
-      "symbol": "BRIDGE",
-      "decimals": 9,
-      "address": "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BRIDGE/logo.svg",
+      "name": "Tycho testnet DAI",
+      "chainId": 2000,
+      "symbol": "ttDAI",
+      "decimals": 18,
+      "address": "0:447e1ce1d551c332670203d3b3f8293d1b512d9b74a4422ea1fdcc96e3ff37b2",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/DAIv3/logo.svg",
       "version": 5,
       "verified": true,
-      "vendor": "broxus"
+      "vendor": "testnet"
     },
     {
-      "name": "Qube",
-      "chainId": 42,
-      "symbol": "QUBE",
-      "decimals": 9,
-      "address": "0:9f20666ce123602fd7a995508aeaa0ece4f92133503c0dfbd609b3239f3901e2",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/QUBE/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-    {
-      "name": "Wrapped BTC",
-      "chainId": 42,
-      "symbol": "WBTC",
+      "name": "Tycho testnet WBTC",
+      "chainId": 2000,
+      "symbol": "ttWBTC",
       "decimals": 8,
-      "address": "0:2ba32b75870d572e255809b7b423f30f36dd5dea075bd5f026863fceb81f2bcf",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WBTCv3/logo.svg",
+      "address": "0:321ec947d1ef864109c204e4dd742a9ab88be13259fa38db35b743c890e1b819",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/WBTCv3/logo.svg",
       "version": 5,
       "verified": true,
-      "vendor": "broxus"
-    },
-    {
-      "name": "Wrapped Ether",
-      "chainId": 42,
-      "symbol": "WETH",
-      "decimals": 18,
-      "address": "0:59b6b64ac6798aacf385ae9910008a525a84fc6dcf9f942ae81f8e8485fe160d",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WETHv3/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-    {
-      "name": "Dai Stablecoin",
-      "chainId": 42,
-      "symbol": "DAI",
-      "decimals": 18,
-      "address": "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAIv3/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-    {
-      "name": "EverStart",
-      "chainId": 42,
-      "symbol": "START",
-      "decimals": 9,
-      "address": "0:7d7af239168cfd06353c224aa8b5e805846ae5e556f66fa8e045b5e1ba29e82a",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/START/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": "EverStart"
-    },
-    {
-      "name": "Black INK",
-      "chainId": 42,
-      "symbol": "INK",
-      "decimals": 9,
-      "address": "0:ba3df9da063c400bc934e35dc16c0ef13b4ca0bf44fa49501f0b5d628aa82fb2",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/INK/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": "blackink.finance"
-    },
-    {
-      "name": "LEND",
-      "chainId": 42,
-      "symbol": "LEND",
-      "decimals": 9,
-      "address": "0:679a05316a324d0daa2724ab7d8e9768a2d1042863299323e969a174a8412a58",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/LEND/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": "svoidev"
-    },
-    {
-      "name": "EUR-Fiat-Based",
-      "chainId": 42,
-      "symbol": "EUPi",
-      "decimals": 8,
-      "address": "0:0cfa60f9454b1b619938c4da6a138b1cc62da937b3f6c0506405daf2a88e0115",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EUPi/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-    {
-      "name": "EVA",
-      "chainId": 42,
-      "symbol": "EVA",
-      "decimals": 9,
-      "address": "0:eaf911b4bc7f9691f9114e32919845a997b3b626add345c67a933ed20b59e9e4",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EVA/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": "Dexada"
-    },
-    {
-      "name": "Frax",
-      "chainId": 42,
-      "symbol": "FRAX",
-      "decimals": 18,
-      "address": "0:efed9f9a7e6c455ee60829fd003b2f42edda513c6f19a484f916b055e9aa58d2",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/FRAX/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-    {
-      "name": "Everspace",
-      "chainId": 42,
-      "symbol": "EVS",
-      "decimals": 9,
-      "address": "0:e5d964bf76b90a29ca11ff03a0402eeca6a1c79a0fb4d8a2f06a67be0537a6bf",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EVS/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": "itgold"
-    },
-    {
-      "name": "Tokenized US National Debt",
-      "chainId": 42,
-      "symbol": "DUSA",
-      "decimals": 2,
-      "address": "0:b3ed4b9402881c7638566b410dda055344679b065dce19807497c62202ba9ce3",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DUSA/logo.svg",
-      "version": 5,
-      "verified": false
-    },
-    {
-      "name": "SOON Token",
-      "chainId": 42,
-      "symbol": "SOON",
-      "decimals": 18,
-      "address": "0:a15e6a7a91c331ddcd85675ca64d5a7db8c7e94b35806b2e05bf4bce29d21023",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/SOON/logo.svg",
-      "version": 5,
-      "verified": false
-    },
-    {
-      "name": "Amazy Token",
-      "chainId": 42,
-      "symbol": "AZY",
-      "decimals": 18,
-      "address": "0:b257ccdf3d13f586003d639b8dd7739e2e093985ac056346e1e72478984d7368",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/AZY/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": "amazy.io"
-    },
-    {
-      "name": "INDOCOIN",
-      "chainId": 42,
-      "symbol": "INDOCOIN",
-      "decimals": 2,
-      "address": "0:03a878cfcb5475bbdeed030f0f274e2281ab26258c156747703ce9a761bce969",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/INDOCOIN/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": ""
-    },
-    {
-      "name": "PileBlocks.com GameFi Play-to-Earn",
-      "chainId": 42,
-      "symbol": "PILE",
-      "decimals": 9,
-      "address": "0:dbba0028173f5b8d09eb597e0cca88cb41a4875efdf8a1815bb31292f150f800",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/PILE/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": ""
-    },
-    {
-      "name": "Solana",
-      "chainId": 42,
-      "symbol": "SOL",
-      "decimals": 9,
-      "address": "0:f787089d81b4d4506f783c611272fedfe5164f784991436491eb619fae13d171",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/SOL/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-	{
-      "name": "ChainWars Essence",
-      "chainId": 42,
-      "symbol": "CWE",
-      "decimals": 18,
-      "address": "0:8f7e930ce95442c3a2a2e3d7a9c7e24dc52dfdaf2ca17e851c49c5bf809bb40e",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/CWE/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": "ChainWars"
-    },
-    {
-      "name": "GamerHub Token",
-      "chainId": 42,
-      "symbol": "GHT",
-      "decimals": 18,
-      "address": "0:1d5dce78bf1f4fadd3d75b57e3a1437504111fb6003e81f2edc6827f80b65e5e",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/GHT/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": "GamerHub"
-    },
-    {
-      "name": "Everscale Community Token",
-      "chainId": 42,
-      "symbol": "ECT",
-      "decimals": 9,
-      "address": "0:cce7e918e48ee20092ce081a2decdaee09c35f56c087720aa16b820d9d625116",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/ECT/logo.svg",
-      "version": 5,
-      "verified": false,
-      "vendor": ""
-    },
-    {
-      "name": "Staked Gravix USDT",
-      "chainId": 42,
-      "symbol": "stgUSDT",
-      "decimals": 6,
-      "address": "0:805cf5f7e9b719430697247cd122678ecbb030dd7a1b8cd472d57e3523870e5a",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/stgUSDT/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-    {
-      "name": "KGSTEST",
-      "chainId": 42,
-      "symbol": "KGSTEST",
-      "decimals": 9,
-      "address": "0:9265f29b703f8e3173b4e64760868ce84e4d89ebfc926fdf5d96d850917dde31",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/KGSTEST/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-    {
-      "name": "GemHUB",
-      "chainId": 42,
-      "symbol": "GHUB",
-      "decimals": 18,
-      "address": "0:7e23c204a0f7a420aa998fd6d2d2fa849da0758114519e53b1105dc66807d33a",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/GHUB/icon.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "broxus"
-    },
-    {
-      "name": "WIXI Token",
-      "chainId": 42,
-      "symbol": "WIXI",
-      "decimals": 18,
-      "address": "0:afe3102c3e0f14839b867207bd4997b00adf3870891a7eb991294834b19ceb27",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WIXI/icon.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "wixi"
+      "vendor": "testnet"
     }
   ]
 }
