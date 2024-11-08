@@ -38,7 +38,7 @@
     {
       "name": "Tycho testnet USDC",
       "chainId": 2000,
-      "symbol": "USDC",
+      "symbol": "ttUSDC",
       "decimals": 6,
       "address": "0:5f875124676ddeb5af117a39a4920caee5facca061a54958c141f54b39739170",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDCv3/logo.svg",
