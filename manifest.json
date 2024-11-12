@@ -14,12 +14,12 @@
   "timestamp": "2022-10-05T15:00:00.000Z",
   "tokens": [
     {
-      "name": "Wrapped TYCHO ",
+      "name": "Wrapped TYCHO",
       "chainId": 2000,
       "symbol": "WTYCHO",
       "decimals": 9,
       "address": "0:6b3355b19c6aedc65be291c00abbf6e5061c07e1926a3fd543863c7a8d06cc79",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/WEVER/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/WTYCHO/logo.svg",
       "version": 5,
       "verified": true,
       "vendor": "testnet"
