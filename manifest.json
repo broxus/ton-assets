@@ -58,6 +58,17 @@
       "vendor": "testnet"
     },
     {
+      "name": "Liquidity provider token for USDC-USDT-DAI stable pool",
+      "chainId": 2000,
+      "symbol": "tt3USD",
+      "decimals": 9,
+      "address": "0:5a03fe45aa044550375110b97388b2f6efad1c61bebfe530ee375957de6bfec2",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/3USD/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "testnet"
+    },
+    {
       "name": "Tycho testnet WBTC",
       "chainId": 2000,
       "symbol": "ttWBTC",
