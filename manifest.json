@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/broxus/ton-assets/master/schemas/manifest.json",
-  "name": "Tycho testnet assets List",
+  "name": "TON assets List",
   "version": {
     "major": 0,
     "minor": 0,
@@ -8,76 +8,43 @@
   },
   "keywords": [
     "ton",
-    "tip3",
+    "jetton",
     "tokens"
   ],
-  "timestamp": "2022-10-05T15:00:00.000Z",
+  "timestamp": "2024-11-20T15:00:00.000Z",
   "tokens": [
     {
-      "name": "Wrapped TYCHO",
-      "chainId": 2000,
-      "symbol": "WTYCHO",
+      "name": "Tether USD",
+      "chainId": -239,
+      "symbol": "USD₮",
+      "decimals": 6,
+      "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
+      "logoURI": "https://ton-tokens-api.bf.works/image/0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe.png",
+      "version": 1,
+      "verified": true,
+      "vendor": ""
+    },
+    {
+      "name": "Mintless Points",
+      "chainId": -239,
+      "symbol": "Points",
       "decimals": 9,
-      "address": "0:6b3355b19c6aedc65be291c00abbf6e5061c07e1926a3fd543863c7a8d06cc79",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/WTYCHO/logo.svg",
-      "version": 5,
+      "address": "0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832",
+      "logoURI": "https://ton-tokens-api.bf.works/image/0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832.png",
+      "version": 2,
       "verified": true,
-      "vendor": "testnet"
+      "vendor": ""
     },
     {
-      "name": "Tycho testnet USDT",
-      "chainId": 2000,
-      "symbol": "ttUSDT",
-      "decimals": 6,
-      "address": "0:635d337462aa8b4cd4199e528686bdf4d050b508473b44833f0d1e6434ec9316",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDTv3/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "testnet"
-    },
-    {
-      "name": "Tycho testnet USDC",
-      "chainId": 2000,
-      "symbol": "ttUSDC",
-      "decimals": 6,
-      "address": "0:5f875124676ddeb5af117a39a4920caee5facca061a54958c141f54b39739170",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDCv3/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "testnet"
-    },
-    {
-      "name": "Tycho testnet DAI",
-      "chainId": 2000,
-      "symbol": "ttDAI",
+      "name": "Test ChainConnect DAI",
+      "chainId": -239,
+      "symbol": "ccDAI",
       "decimals": 18,
-      "address": "0:a1707383f349f40f5a2be8a63ad3ace54ca8ef08ef027f9f5610f5e7e623cfb2",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/DAIv3/logo.svg",
-      "version": 5,
+      "address": "0:9f43af6763059ac3fa7ca2bc27fd4265c4ee370efe9485d546ad6e07aa748155",
+      "logoURI": "https://ton-tokens-api.bf.works/image/0:9f43af6763059ac3fa7ca2bc27fd4265c4ee370efe9485d546ad6e07aa748155.png",
+      "version": 3,
       "verified": true,
-      "vendor": "testnet"
-    },
-    {
-      "name": "Liquidity provider token for USDC-USDT-DAI stable pool",
-      "chainId": 2000,
-      "symbol": "tt3USD",
-      "decimals": 9,
-      "address": "0:5a03fe45aa044550375110b97388b2f6efad1c61bebfe530ee375957de6bfec2",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/3USD/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "testnet"
-    },
-    {
-      "name": "Tycho testnet WBTC",
-      "chainId": 2000,
-      "symbol": "ttWBTC",
-      "decimals": 8,
-      "address": "0:e6bb15360575c31c47bac74d10223d8f26a856deec37c9e6a2873c5d666b1c63",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/WBTCv3/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "testnet"
+      "vendor": ""
     }
   ]
 }
