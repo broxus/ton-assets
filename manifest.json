@@ -340,6 +340,17 @@
       "version": 5,
       "verified": true,
       "vendor": "wixi"
+    },
+	    {
+      "name": "Zealy Scale Key",
+      "chainId": 42,
+      "symbol": "ZSK",
+      "decimals": 2,
+      "address": "0:c6c2c9e0cdf080ce57862bc7380fbec094e593469c4518058fabfff963d26d8c",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/ZSK/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "broxus"
     }
   ]
 }
