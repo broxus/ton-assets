@@ -19,7 +19,7 @@
       "symbol": "USD₮",
       "decimals": 6,
       "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
-      "logoURI": "https://ton-tokens-api.bf.works/image/0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe.png",
+      "logoURI": "https://ton-tokens-api.broxus.com/image/0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe.png",
       "version": 1,
       "verified": true,
       "vendor": ""
@@ -30,7 +30,18 @@
       "symbol": "Points",
       "decimals": 9,
       "address": "0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832",
-      "logoURI": "https://ton-tokens-api.bf.works/image/0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832.png",
+      "logoURI": "https://ton-tokens-api.broxus.com/image/0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832.png",
+      "version": 2,
+      "verified": true,
+      "vendor": ""
+    },
+    {
+      "name": "PikaTon",
+      "chainId": -239,
+      "symbol": "PKTN",
+      "decimals": 9,
+      "address": "0:034906b3f9550bda72af89886ced5934e84fd7f78644ad3157274ad5bb2ea287",
+      "logoURI": "https://ton-tokens-api.broxus.com/image/0:034906b3f9550bda72af89886ced5934e84fd7f78644ad3157274ad5bb2ea287.jpg",
       "version": 2,
       "verified": true,
       "vendor": ""
@@ -41,7 +52,7 @@
       "symbol": "ccDAI",
       "decimals": 18,
       "address": "0:9f43af6763059ac3fa7ca2bc27fd4265c4ee370efe9485d546ad6e07aa748155",
-      "logoURI": "https://ton-tokens-api.bf.works/image/0:9f43af6763059ac3fa7ca2bc27fd4265c4ee370efe9485d546ad6e07aa748155.png",
+      "logoURI": "https://ton-tokens-api.broxus.com/image/0:9f43af6763059ac3fa7ca2bc27fd4265c4ee370efe9485d546ad6e07aa748155.png",
       "version": 3,
       "verified": true,
       "vendor": ""
