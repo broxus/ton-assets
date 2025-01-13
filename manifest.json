@@ -78,6 +78,17 @@
       "version": 5,
       "verified": true,
       "vendor": "testnet"
+    },
+    {
+      "name": "Digital Uzbekistani Sum",
+      "chainId": 2000,
+      "symbol": "UZS",
+      "decimals": 6,
+      "address": "0:8f7b3859a1d28c364c5483a30a73591217f595f16cc4c02a46afa9c1c5fda1c1",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/UZS/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "testnet"
     }
   ]
 }
