@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/broxus/ton-assets/master/schemas/manifest.json",
-  "name": "Tycho testnet assets List",
+  "name": "Tycho devnet1 assets List",
   "version": {
     "major": 0,
     "minor": 0,
@@ -11,73 +11,18 @@
     "tip3",
     "tokens"
   ],
-  "timestamp": "2022-10-05T15:00:00.000Z",
+  "timestamp": "2024-01-20T00:00:00.000Z",
   "tokens": [
     {
       "name": "Wrapped TYCHO",
-      "chainId": 2000,
+      "chainId": 0,
       "symbol": "WTYCHO",
       "decimals": 9,
-      "address": "0:6b3355b19c6aedc65be291c00abbf6e5061c07e1926a3fd543863c7a8d06cc79",
+      "address": "0:658426d691009fb7abb02209a5b53ef3384079c969bb2c856fd7eeff95234ab2",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/WTYCHO/logo.svg",
       "version": 5,
       "verified": true,
-      "vendor": "testnet"
-    },
-    {
-      "name": "Tycho testnet USDT",
-      "chainId": 2000,
-      "symbol": "ttUSDT",
-      "decimals": 6,
-      "address": "0:635d337462aa8b4cd4199e528686bdf4d050b508473b44833f0d1e6434ec9316",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDTv3/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "testnet"
-    },
-    {
-      "name": "Tycho testnet USDC",
-      "chainId": 2000,
-      "symbol": "ttUSDC",
-      "decimals": 6,
-      "address": "0:5f875124676ddeb5af117a39a4920caee5facca061a54958c141f54b39739170",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDCv3/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "testnet"
-    },
-    {
-      "name": "Tycho testnet DAI",
-      "chainId": 2000,
-      "symbol": "ttDAI",
-      "decimals": 18,
-      "address": "0:a1707383f349f40f5a2be8a63ad3ace54ca8ef08ef027f9f5610f5e7e623cfb2",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/DAIv3/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "testnet"
-    },
-    {
-      "name": "Liquidity provider token for USDC-USDT-DAI stable pool",
-      "chainId": 2000,
-      "symbol": "tt3USD",
-      "decimals": 9,
-      "address": "0:5a03fe45aa044550375110b97388b2f6efad1c61bebfe530ee375957de6bfec2",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/3USD/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "testnet"
-    },
-    {
-      "name": "Tycho testnet WBTC",
-      "chainId": 2000,
-      "symbol": "ttWBTC",
-      "decimals": 8,
-      "address": "0:e6bb15360575c31c47bac74d10223d8f26a856deec37c9e6a2873c5d666b1c63",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/WBTCv3/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "testnet"
+      "vendor": "devnet1"
     }
   ]
 }
