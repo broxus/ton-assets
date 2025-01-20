@@ -19,7 +19,18 @@
       "symbol": "WTYCHO",
       "decimals": 9,
       "address": "0:658426d691009fb7abb02209a5b53ef3384079c969bb2c856fd7eeff95234ab2",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/WTYCHO/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychodevnet1/icons/WTYCHO/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "devnet1"
+    },
+    {
+      "name": "Tycho test USDT",
+      "chainId": 0,
+      "symbol": "ttUSDT",
+      "decimals": 6,
+      "address": "0:38dacaffc07313efb83103ffaae94dd13bfae970b2ca481b7a4cce766b898732",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychodevnet1/icons/USDTv3/logo.svg",
       "version": 5,
       "verified": true,
       "vendor": "devnet1"
