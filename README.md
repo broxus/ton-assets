@@ -1,2 +1,2 @@
 # ton-assets
-Collection of information about TIP3 tokens available in TON
+Collection of information about Jettons available in TON
