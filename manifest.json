@@ -14,6 +14,17 @@
   "timestamp": "2024-11-20T15:00:00.000Z",
   "tokens": [
     {
+      "name": "ChainConnect Wrapped TON",
+      "chainId": -249,
+      "symbol": "ccWTON",
+      "decimals": 9,
+      "address": "0:4fa2916fc8cb24141b1fa79c3fe6505c52e02782c4a3fc99323ab4a00005fe3e",
+      "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:4fa2916fc8cb24141b1fa79c3fe6505c52e02782c4a3fc99323ab4a00005fe3e.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "ChainConnect"
+    },
+    {
       "name": "Tether USD",
       "chainId": -239,
       "symbol": "USD₮",
