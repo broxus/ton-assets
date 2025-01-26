@@ -34,6 +34,17 @@
       "version": 5,
       "verified": true,
       "vendor": "devnet1"
+    },
+    {
+      "name": "ChainConnect Wrapped TON",
+      "chainId": 0,
+      "symbol": "WTON",
+      "decimals": 6,
+      "address": "0:d5f2653e85a0d07ada0de1447cd46081404e844e93c72bbb17ce58c023767c34",
+      "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:4fa2916fc8cb24141b1fa79c3fe6505c52e02782c4a3fc99323ab4a00005fe3e.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "devnet1"
     }
   ]
 }
