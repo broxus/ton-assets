@@ -351,6 +351,17 @@
       "version": 5,
       "verified": true,
       "vendor": "broxus"
+    },
+	    {
+      "name": "EVER Quests - Season 1",
+      "chainId": 42,
+      "symbol": "EQ1",
+      "decimals": 2,
+      "address": "0:78be283937c0fdad7a902a3ca67c0ab8d379fdc4f81dc2098bf71aef502a7dee",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EQ1/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "broxus"
     }
   ]
 }
