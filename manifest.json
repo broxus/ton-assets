@@ -25,17 +25,6 @@
       "vendor": "ChainConnect"
     },
     {
-      "name": "Tether USD",
-      "chainId": -239,
-      "symbol": "USDT",
-      "decimals": 6,
-      "address": "0:fb3559644d96dde14d0b5b5b45c179afed8ea9ad4de78056e96c31e84db6eb87",
-      "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:fb3559644d96dde14d0b5b5b45c179afed8ea9ad4de78056e96c31e84db6eb87.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "ChainConnect"
-    },
-    {
       "name": "USD Coin",
       "chainId": -239,
       "symbol": "USDC",
