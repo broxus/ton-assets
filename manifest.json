@@ -25,6 +25,17 @@
       "vendor": "ChainConnect"
     },
     {
+      "name": "Hamster Kombat",
+      "chainId": -239,
+      "symbol": "HMSTR",
+      "decimals": 9,
+      "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
+      "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d.webp",
+      "version": 5,
+      "verified": true,
+      "vendor": "ChainConnect"
+    },
+    {
       "name": "USD Coin",
       "chainId": -239,
       "symbol": "USDC",
@@ -53,17 +64,6 @@
       "decimals": 18,
       "address": "0:8626a9eb998a9934ebef5d5ed51cdf83b969736e4818ad83941bebe47d6a19a6",
       "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:8626a9eb998a9934ebef5d5ed51cdf83b969736e4818ad83941bebe47d6a19a6.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "ChainConnect"
-    },
-    {
-      "name": "Hamster Kombat",
-      "chainId": -239,
-      "symbol": "HMSTR",
-      "decimals": 9,
-      "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
-      "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d.svg",
       "version": 5,
       "verified": true,
       "vendor": "ChainConnect"
