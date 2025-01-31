@@ -16,9 +16,20 @@
     {
       "name": "Wrapped TYCHO",
       "chainId": 2000,
-      "symbol": "WTYCHO",
+      "symbol": "jWTYCHO",
       "decimals": 9,
       "address": "0:287a4a9edf0cbe0121300aeebca5d8d16431d57d35f877e9d7bef27a923bf10e",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/WTYCHO/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "testnet"
+    },
+    {
+      "name": "Wrapped TYCHO",
+      "chainId": 2000,
+      "symbol": "WTYCHO",
+      "decimals": 9,
+      "address": "0:0619a1789738fbeb8f8a46a4d71268cd277b049ad5da3df3c7b8a8e9f10c3a22",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/WTYCHO/logo.svg",
       "version": 5,
       "verified": true,
