@@ -14,7 +14,7 @@
   "timestamp": "2022-10-05T15:00:00.000Z",
   "tokens": [
     {
-      "name": "Wrapped TYCHO",
+      "name": "Wrapped TYCHO (jetton compatible)",
       "chainId": 2000,
       "symbol": "jWTYCHO",
       "decimals": 9,
@@ -36,7 +36,7 @@
       "vendor": "testnet"
     },
     {
-      "name": "Tycho testnet USDT",
+      "name": "Tycho testnet USDT (jetton compatible)",
       "chainId": 2000,
       "symbol": "ttUSDT",
       "decimals": 6,
