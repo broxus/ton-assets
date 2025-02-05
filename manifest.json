@@ -24,6 +24,17 @@
       "vendor": "Hamster"
     },
     {
+      "name": "TON",
+      "chainId": 7,
+      "symbol": "TON",
+      "decimals": 9,
+      "address": "0:fddc005ddffcc9c5cc8e2d684c1338d3fa5548426602b04b2cfd2a1a3504be80",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/hmstr/icons/TON/logo.svg",
+      "version": 6,
+      "verified": true,
+      "vendor": "ChainConnect"
+    },
+    {
       "name": "Tether USD",
       "chainId": 7,
       "symbol": "USDT",
