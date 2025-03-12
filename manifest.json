@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/broxus/ton-assets/master/schemas/manifest.json",
-  "name": "HamsterChain tokens",
+  "name": "HUMO tokens",
   "version": {
     "major": 0,
     "minor": 0,
@@ -10,73 +10,18 @@
     "tip3",
     "tokens"
   ],
-  "timestamp": "2025-01-29T00:00:00.000Z",
+  "timestamp": "2025-03-12T00:00:00.000Z",
   "tokens": [
     {
-      "name": "Wrapped HMSTR",
-      "chainId": 7,
-      "symbol": "wHMSTR",
+      "name": "Wrapped HUMO",
+      "chainId": 100860,
+      "symbol": "HUMO",
       "decimals": 9,
-      "address": "0:39b50cd546326f132e57ce3d6c488d08cb3900dc309a53681b82216993384546",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/hmstr/icons/wHMSTR/logo.webp",
+      "address": "0:ee49dd4c3a7754ace683612e5f9d06508ff13acb4055168fada912af25919271",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/hmstr/icons/HUMO/logo.svg",
       "version": 6,
       "verified": true,
-      "vendor": "Hamster"
-    },
-    {
-      "name": "TON",
-      "chainId": 7,
-      "symbol": "TON",
-      "decimals": 9,
-      "address": "0:fddc005ddffcc9c5cc8e2d684c1338d3fa5548426602b04b2cfd2a1a3504be80",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/hmstr/icons/TON/logo.svg",
-      "version": 6,
-      "verified": true,
-      "vendor": "ChainConnect"
-    },
-    {
-      "name": "Tether USD",
-      "chainId": 7,
-      "symbol": "USDT",
-      "decimals": 6,
-      "address": "0:fddd1826459dd65c27be7db2c55ea5260279d38990b92c975f56000cb8bb39fb",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDTv3/logo.svg",
-      "version": 6,
-      "verified": true,
-      "vendor": "ChainConnect"
-    },
-    {
-      "name": "USD Coin",
-      "chainId": 7,
-      "symbol": "USDC",
-      "decimals": 6,
-      "address": "0:2422ed354c85a950a16ad349e4771289efcc70a930faaa8292b33c423e486018",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDCv3/logo.svg",
-      "version": 6,
-      "verified": true,
-      "vendor": "ChainConnect"
-    },
-    {
-      "name": "Wrapped BTC",
-      "chainId": 7,
-      "symbol": "WBTC",
-      "decimals": 8,
-      "address": "0:ee0693ddf340b61b05d8009478f52574d6df8ddd8892340e60fe3949605d7bf0",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WBTCv3/logo.svg",
-      "version": 6,
-      "verified": true,
-      "vendor": "ChainConnect"
-    },
-    {
-      "name": "Wrapped Ether",
-      "chainId": 7,
-      "symbol": "WETH",
-      "decimals": 18,
-      "address": "0:51dec0381afcc50813e8c9bb23dbc1efc31ae5b34a2ffab958dae0cedd434b27",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WETHv3/logo.svg",
-      "version": 6,
-      "verified": true,
-      "vendor": "ChainConnect"
+      "vendor": "HUMO"
     }
   ]
 }
