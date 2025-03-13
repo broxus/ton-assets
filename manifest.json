@@ -22,6 +22,17 @@
       "version": 6,
       "verified": true,
       "vendor": "HUMO"
+    },
+    {
+      "name": "Tether USD",
+      "chainId": 100860,
+      "symbol": "USDT",
+      "decimals": 6,
+      "address": "0:ee49dd4c3a7754ace683612e5f9d06508ff13acb4055168fada912af25919271",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/humo/icons/USDTv3/logo.svg",
+      "version": 6,
+      "verified": true,
+      "vendor": "HUMO"
     }
   ]
 }
