@@ -67,6 +67,39 @@
       "version": 5,
       "verified": true,
       "vendor": "ChainConnect"
+    },
+    {
+      "name": "Wrapped Ether",
+      "chainId": -239,
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0:8626a9eb998a9934ebef5d5ed51cdf83b969736e4818ad83941bebe47d6a19a6",
+      "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:8626a9eb998a9934ebef5d5ed51cdf83b969736e4818ad83941bebe47d6a19a6.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "ChainConnect"
+    },
+    {
+      "name": "DRAGONZ LAND",
+      "chainId": -239,
+      "symbol": "DRAGONZ",
+      "decimals": 9,
+      "address": "0:9215fed57111de6c7b9b14ec8ef60b96a27515641bd134799d4ebda1ee3e1cd0",
+      "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:9215fed57111de6c7b9b14ec8ef60b96a27515641bd134799d4ebda1ee3e1cd0.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": ChainConnect"
+    },
+    {
+      "name": "Dotcoin",
+      "chainId": -239,
+      "symbol": "DTC",
+      "decimals": 9,
+      "address": "0:10f67f14ff7e59d13b792eaeca9376281a8a68cc954ef3798c1c55adf2367846",
+      "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:10f67f14ff7e59d13b792eaeca9376281a8a68cc954ef3798c1c55adf2367846.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": ChainConnect"
     }
   ]
 }
