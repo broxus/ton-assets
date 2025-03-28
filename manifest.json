@@ -88,7 +88,7 @@
       "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:9215fed57111de6c7b9b14ec8ef60b96a27515641bd134799d4ebda1ee3e1cd0.svg",
       "version": 5,
       "verified": true,
-      "vendor": ChainConnect"
+      "vendor": "ChainConnect"
     },
     {
       "name": "Dotcoin",
@@ -99,7 +99,7 @@
       "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:10f67f14ff7e59d13b792eaeca9376281a8a68cc954ef3798c1c55adf2367846.svg",
       "version": 5,
       "verified": true,
-      "vendor": ChainConnect"
+      "vendor": "ChainConnect"
     }
   ]
 }
