@@ -34,6 +34,17 @@
       "version": 5,
       "verified": true,
       "vendor": "testnet"
+    },
+    {
+      "name": "Tycho testnet USDC (jetton compatible)",
+      "chainId": 2000,
+      "symbol": "ttUSDC",
+      "decimals": 6,
+      "address": "0:95ba64a023673a3e863dab2a82c916ea57713d804c56a8420dd03b43b3f5f18e",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDTv3/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "testnet"
     }
   ]
 }
