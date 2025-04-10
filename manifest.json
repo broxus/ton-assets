@@ -40,7 +40,7 @@
       "chainId": 2000,
       "symbol": "ttUSDC",
       "decimals": 6,
-      "address": "0:95ba64a023673a3e863dab2a82c916ea57713d804c56a8420dd03b43b3f5f18e",
+      "address": "0:aa06067787074c63291db055a4019cf920a84a13f07f32744b3720c2a99c7d11",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDCv3/logo.svg",
       "version": 5,
       "verified": true,
