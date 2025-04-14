@@ -69,17 +69,6 @@
       "vendor": "ChainConnect"
     },
     {
-      "name": "Wrapped Ether",
-      "chainId": -239,
-      "symbol": "WETH",
-      "decimals": 18,
-      "address": "0:8626a9eb998a9934ebef5d5ed51cdf83b969736e4818ad83941bebe47d6a19a6",
-      "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:8626a9eb998a9934ebef5d5ed51cdf83b969736e4818ad83941bebe47d6a19a6.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "ChainConnect"
-    },
-    {
       "name": "DRAGONZ LAND",
       "chainId": -239,
       "symbol": "DRAGONZ",
