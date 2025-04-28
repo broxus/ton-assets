@@ -38,7 +38,7 @@
     {
       "name": "Tycho testnet USDC (jetton compatible)",
       "chainId": 2000,
-      "symbol": "ttUSDC",
+      "symbol": "tttUSDC",
       "decimals": 6,
       "address": "0:aa06067787074c63291db055a4019cf920a84a13f07f32744b3720c2a99c7d11",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDCv3/logo.svg",
