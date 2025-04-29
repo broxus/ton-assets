@@ -20,7 +20,7 @@
       "decimals": 9,
       "address": "0:8233ae1a3a94f77a9b12ab9b07f37923144fb78a7a8c582a5e3e2ed86cb40ced",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/WTYCHO/logo.svg",
-      "version": 5,
+      "version": 6,
       "verified": true,
       "vendor": "testnet"
     },
@@ -31,7 +31,7 @@
       "decimals": 6,
       "address": "0:90dd68d82e573223430fefcbf07dfe546f388c458fbd3e05a885065410f0c808",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDTv3/logo.svg",
-      "version": 5,
+      "version": 6,
       "verified": true,
       "vendor": "testnet"
     },
@@ -42,7 +42,7 @@
       "decimals": 6,
       "address": "0:aa06067787074c63291db055a4019cf920a84a13f07f32744b3720c2a99c7d11",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDCv3/logo.svg",
-      "version": 5,
+      "version": 6,
       "verified": true,
       "vendor": "testnet"
     },
@@ -53,7 +53,18 @@
       "decimals": 9,
       "address": "0:67f27982a578d47a102f0f0e0c5beca446329aa123c20f6f861f0afb3e4a1621",
       "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:4fa2916fc8cb24141b1fa79c3fe6505c52e02782c4a3fc99323ab4a00005fe3e.svg",
-      "version": 5,
+      "version": 6,
+      "verified": true,
+      "vendor": "testnet"
+    },
+    {
+      "name": "Tether USD",
+      "chainId": 2000,
+      "symbol": "USD₮",
+      "decimals": 6,
+      "address": "0:bb9a61cb7c25c2373cdf9452db32bb6acf0dafcb4f9637c425646ade6ef09294",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDTv3/logo.svg",
+      "version": 6,
       "verified": true,
       "vendor": "testnet"
     }
