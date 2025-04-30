@@ -71,7 +71,7 @@
     {
       "name": "Staked Tycho",
       "chainId": 2000,
-      "symbol": "StTYCHO",
+      "symbol": "stTYCHO",
       "decimals": 9,
       "address": "0:caab0a342f46d0f32d478a0e90c4ffd61e727ad2b838ea4c2a5825a484960b54",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/StTYCHO/logo.svg",
