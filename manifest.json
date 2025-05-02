@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/broxus/ton-assets/master/schemas/manifest.json",
-  "name": "TON assets List",
+  "name": "TON Testnet assets List",
   "version": {
     "major": 0,
     "minor": 0,
@@ -14,59 +14,15 @@
   "timestamp": "2024-11-20T15:00:00.000Z",
   "tokens": [
     {
-      "name": "ChainConnect Wrapped TON",
-      "chainId": -249,
-      "symbol": "ccWTON",
+      "name": "ChainConnect Wrapped Testnet TON",
+      "chainId": -3,
+      "symbol": "TestnetTON",
       "decimals": 9,
-      "address": "0:4fa2916fc8cb24141b1fa79c3fe6505c52e02782c4a3fc99323ab4a00005fe3e",
-      "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:4fa2916fc8cb24141b1fa79c3fe6505c52e02782c4a3fc99323ab4a00005fe3e.svg",
+      "address": "0:b4e147cf7a41ff5d1be171c30a9636b8fffdefad8a4abe8ca6b0664965cfbc48",
+      "logoURI": "https://ton-testnet-tokens-meta.chainconnect.com/image/0:b4e147cf7a41ff5d1be171c30a9636b8fffdefad8a4abe8ca6b0664965cfbc48.svg",
       "version": 5,
       "verified": true,
       "vendor": "ChainConnect"
-    },
-    {
-      "name": "Tether USD",
-      "chainId": -239,
-      "symbol": "USD₮",
-      "decimals": 6,
-      "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
-      "logoURI": "https://ton-tokens-api.broxus.com/image/0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe.png",
-      "version": 1,
-      "verified": true,
-      "vendor": ""
-    },
-    {
-      "name": "Mintless Points",
-      "chainId": -239,
-      "symbol": "Points",
-      "decimals": 9,
-      "address": "0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832",
-      "logoURI": "https://ton-tokens-api.broxus.com/image/0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832.png",
-      "version": 2,
-      "verified": true,
-      "vendor": ""
-    },
-    {
-      "name": "PikaTon",
-      "chainId": -239,
-      "symbol": "PKTN",
-      "decimals": 9,
-      "address": "0:034906b3f9550bda72af89886ced5934e84fd7f78644ad3157274ad5bb2ea287",
-      "logoURI": "https://ton-tokens-api.broxus.com/image/0:034906b3f9550bda72af89886ced5934e84fd7f78644ad3157274ad5bb2ea287.jpg",
-      "version": 2,
-      "verified": true,
-      "vendor": ""
-    },
-    {
-      "name": "Test ChainConnect DAI",
-      "chainId": -239,
-      "symbol": "ccDAI",
-      "decimals": 18,
-      "address": "0:9f43af6763059ac3fa7ca2bc27fd4265c4ee370efe9485d546ad6e07aa748155",
-      "logoURI": "https://ton-tokens-api.broxus.com/image/0:9f43af6763059ac3fa7ca2bc27fd4265c4ee370efe9485d546ad6e07aa748155.png",
-      "version": 3,
-      "verified": true,
-      "vendor": ""
     }
   ]
 }
