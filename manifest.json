@@ -23,6 +23,17 @@
       "version": 5,
       "verified": true,
       "vendor": "ChainConnect"
+    },
+    {
+      "name": "LOCK",
+      "chainId": -3,
+      "symbol": "LOCK",
+      "decimals": 9,
+      "address": "0:511d7d1c8d4e8b78b2f9dfa25d8c4482a05433007c41742a6551be6232b86b34",
+      "logoURI": "https://ton-testnet-tokens-meta.chainconnect.com/image/0:511d7d1c8d4e8b78b2f9dfa25d8c4482a05433007c41742a6551be6232b86b34.png",
+      "version": 5,
+      "verified": true,
+      "vendor": ""
     }
   ]
 }
