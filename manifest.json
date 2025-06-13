@@ -56,5 +56,16 @@
       "verified": true,
       "vendor": "devnet1"
     }
+    {
+      "name": "Wrapped TON",
+      "chainId": 0,
+      "symbol": "TON",
+      "decimals": 9,
+      "address": "0:dbaa352c3b258ffe76502419575c4c90831b66668d3b2889af0d5cc998ed7151",
+      "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:cacda65ac0ea5953338c90dcc7af28e3a81a35f83497a28f31eb8f27ed420611.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "devnet1"
+    }
   ]
 }
