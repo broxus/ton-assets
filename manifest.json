@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/broxus/ton-assets/master/schemas/manifest.json",
-  "name": "HUMO tokens",
+  "name": "M.Sharia tokens",
   "version": {
     "major": 0,
     "minor": 0,
@@ -10,29 +10,18 @@
     "tip3",
     "tokens"
   ],
-  "timestamp": "2025-03-12T00:00:00.000Z",
+  "timestamp": "2025-07-30T00:00:00.000Z",
   "tokens": [
     {
-      "name": "Wrapped HUMO",
-      "chainId": 100860,
-      "symbol": "HUMO",
+      "name": "Mobisaria",
+      "chainId": 10000001,
+      "symbol": "MBSR",
       "decimals": 9,
-      "address": "0:ee49dd4c3a7754ace683612e5f9d06508ff13acb4055168fada912af25919271",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/humo/icons/HUMO/logo.svg",
+      "address": "0:f310414c86451a3136828ffc64fad3a260f14e5d5a75e000ce92a67a01d55f27",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/msharia/icons/MBSR/logo.svg",
       "version": 6,
       "verified": true,
-      "vendor": "HUMO"
-    },
-    {
-      "name": "Tether USD",
-      "chainId": 100860,
-      "symbol": "USDT",
-      "decimals": 6,
-      "address": "0:955f8166c2db81fe1a2d7eb11b8a45a1a64d383c5ff0ee68c306785d4af2bbab",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/humo/icons/USDTv3/logo.svg",
-      "version": 6,
-      "verified": true,
-      "vendor": "HUMO"
+      "vendor": ""
     }
   ]
 }
