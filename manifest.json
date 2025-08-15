@@ -62,7 +62,7 @@
       "chainId": 2000,
       "symbol": "USD₮",
       "decimals": 6,
-      "address": "0:bb9a61cb7c25c2373cdf9452db32bb6acf0dafcb4f9637c425646ade6ef09294",
+      "address": "0:ec7df9a55f6b9ef4cb2b9f88df31dcbcdd246e22d4ba433d104c4d06772ac3bc",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDTv3/logo.svg",
       "version": 6,
       "verified": true,
