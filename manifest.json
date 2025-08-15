@@ -47,11 +47,11 @@
       "vendor": "testnet"
     },
     {
-      "name": "ChainConnect Wrapped TON",
+      "name": "Wrapped TON",
       "chainId": 2000,
       "symbol": "TON",
       "decimals": 9,
-      "address": "0:67f27982a578d47a102f0f0e0c5beca446329aa123c20f6f861f0afb3e4a1621",
+      "address": "0:9f2ccb148ce46676fc102b5c65e4276ee15ead63694c28cbd20dcc9062677734",
       "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:4fa2916fc8cb24141b1fa79c3fe6505c52e02782c4a3fc99323ab4a00005fe3e.svg",
       "version": 6,
       "verified": true,
