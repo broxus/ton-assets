@@ -10,7 +10,7 @@
     "tip3",
     "tokens"
   ],
-  "timestamp": "2025-07-30T00:00:00.000Z",
+  "timestamp": "2025-10-09T00:00:00.000Z",
   "tokens": [
     {
       "name": "Mobisaria",
@@ -19,6 +19,39 @@
       "decimals": 9,
       "address": "0:8305ee8616735691da2d329aa28ec6f81eabe7f0204be48a671cf2be18e0f02b",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/msharia/icons/MBSR/logo.svg",
+      "version": 6,
+      "verified": true,
+      "vendor": ""
+    },
+    {
+      "name": "Tether USD",
+      "chainId": 10000001,
+      "symbol": "USDT",
+      "decimals": 6,
+      "address": "0:b65455a5b963118ed18e54f5acb779254061449ea891160a988b5cd2ad3b0cf8",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/msharia/icons/USDTv3/logo.svg",
+      "version": 6,
+      "verified": true,
+      "vendor": ""
+    },
+    {
+      "name": "USD Coin",
+      "chainId": 10000001,
+      "symbol": "USDC",
+      "decimals": 6,
+      "address": "0:6cda1313244297917117a38dd3d5378bd758ee99b1c0edb65840f961cb3385a8",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/msharia/icons/USDCv3/logo.svg",
+      "version": 6,
+      "verified": true,
+      "vendor": ""
+    },
+    {
+      "name": "Wrapped Ether",
+      "chainId": 10000001,
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0:d94a6f52b4c29dbb6ad7108bfb72a43ee14d4c65287ab1b96a430963d47ba41c",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/msharia/icons/WETHv3/logo.svg",
       "version": 6,
       "verified": true,
       "vendor": ""
