@@ -18,7 +18,7 @@
       "chainId": 2000,
       "symbol": "WTYCHO",
       "decimals": 9,
-      "address": "0:8233ae1a3a94f77a9b12ab9b07f37923144fb78a7a8c582a5e3e2ed86cb40ced",
+      "address": "0:06e75c5e280c25fc96470891476937df6c3c575b43c2d8d8af8c612a6d3dc146",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/WTYCHO/logo.svg",
       "version": 6,
       "verified": true,
@@ -29,53 +29,9 @@
       "chainId": 2000,
       "symbol": "ttUSDT",
       "decimals": 6,
-      "address": "0:90dd68d82e573223430fefcbf07dfe546f388c458fbd3e05a885065410f0c808",
+      "address": "0:87f399a24f744931d9c689fb8ba4aac23b21c76846c11fba9dc15760d4e05cba",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDTv3/logo.svg",
       "version": 6,
-      "verified": true,
-      "vendor": "testnet"
-    },
-    {
-      "name": "Tycho testnet USDC (jetton compatible)",
-      "chainId": 2000,
-      "symbol": "ttUSDC",
-      "decimals": 6,
-      "address": "0:aa06067787074c63291db055a4019cf920a84a13f07f32744b3720c2a99c7d11",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDCv3/logo.svg",
-      "version": 6,
-      "verified": true,
-      "vendor": "testnet"
-    },
-    {
-      "name": "Wrapped TON",
-      "chainId": 2000,
-      "symbol": "TON",
-      "decimals": 9,
-      "address": "0:9f2ccb148ce46676fc102b5c65e4276ee15ead63694c28cbd20dcc9062677734",
-      "logoURI": "https://ton-tokens-meta.chainconnect.com/image/0:4fa2916fc8cb24141b1fa79c3fe6505c52e02782c4a3fc99323ab4a00005fe3e.svg",
-      "version": 6,
-      "verified": true,
-      "vendor": "testnet"
-    },
-    {
-      "name": "Tether USD",
-      "chainId": 2000,
-      "symbol": "USD₮",
-      "decimals": 6,
-      "address": "0:ec7df9a55f6b9ef4cb2b9f88df31dcbcdd246e22d4ba433d104c4d06772ac3bc",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDTv3/logo.svg",
-      "version": 6,
-      "verified": true,
-      "vendor": "testnet"
-    },
-    {
-      "name": "Staked Tycho",
-      "chainId": 2000,
-      "symbol": "stTYCHO",
-      "decimals": 9,
-      "address": "0:caab0a342f46d0f32d478a0e90c4ffd61e727ad2b838ea4c2a5825a484960b54",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/StTYCHO/logo.svg",
-      "version": 5,
       "verified": true,
       "vendor": "testnet"
     }
