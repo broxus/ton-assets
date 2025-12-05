@@ -29,7 +29,7 @@
       "chainId": 2000,
       "symbol": "ttUSDT",
       "decimals": 6,
-      "address": "0:87f399a24f744931d9c689fb8ba4aac23b21c76846c11fba9dc15760d4e05cba",
+      "address": "0:d29489fa8e2de07c4390e75b10c5b3522ef15c19631cfcdff9da7c25ad889e1d",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/USDTv3/logo.svg",
       "version": 6,
       "verified": true,
