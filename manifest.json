@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "keywords": [
     "ton",
@@ -55,7 +55,7 @@
       "version": 5,
       "verified": true,
       "vendor": "devnet1"
-    }
+    },
     {
       "name": "Wrapped TON",
       "chainId": 0,
@@ -66,6 +66,17 @@
       "version": 5,
       "verified": true,
       "vendor": "devnet1"
+    },
+    {
+      "name": "Staked Tycho",
+      "chainId": 0,
+      "symbol": "stTYCHO",
+      "decimals": 9,
+      "address": "0:ce9e830b0c867c6a1834ad6bd9adf8670182556e2cb6e47e7564da80bfd0eb93",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/tychotestnet/icons/StTYCHO/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "testnet"
     }
   ]
 }
