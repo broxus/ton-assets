@@ -362,6 +362,17 @@
       "version": 5,
       "verified": true,
       "vendor": "broxus"
+    },
+	  	{	
+      "name": "EVERWON",
+      "chainId": 42,
+      "symbol": "everwon",
+      "decimals": 1,
+      "address": "0:86773b33c3c61b29dfd7d9953fc194b2e3867f2ba4b795936c60d38c81b62d9b",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EVERWON/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "broxus"
     }
   ]
 }
