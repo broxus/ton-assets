@@ -374,5 +374,15 @@
       "verified": true,
       "vendor": "broxus"
     }
+    {
+      "name": "MY LUNCH Token",
+      "chainId": 1,
+      "symbol": "MYLUNCH",
+      "decimals": 6,
+      "address": "0:e7b16ca2d3cfeae7da962ba0f63d278727ae1f5a9c4a6203816a6ff60cacd6e6",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/MYLUNCH/logo.svg",
+      "version": 5,
+      "verified": false,
+    }
   ]
 }
