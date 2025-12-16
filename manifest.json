@@ -10,8 +10,19 @@
     "tip3",
     "tokens"
   ],
-  "timestamp": "2025-03-12T00:00:00.000Z",
+  "timestamp": "2025-12-16T00:00:00.000Z",
   "tokens": [
+    {
+      "name": "Wrapped HUMO",
+      "chainId": 100860,
+      "symbol": "HUMO",
+      "decimals": 9,
+      "address": "0:f7d09c6aba2cb23f901e8435f8980ad1df067f59375faa449d14a873ebe27cd0",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/refs/heads/humo/icons/HUMO/logo.svg",
+      "version": 7,
+      "verified": true,
+      "vendor": "HUMO"
+    }
   ]
 }
 
